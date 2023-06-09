@@ -1,4 +1,4 @@
-<h1 align="center">**I am a Software Developer**</h1>
+<h1 align="center">I am a Software Developer</h1>
 
 
 
