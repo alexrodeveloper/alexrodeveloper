@@ -21,3 +21,4 @@
 ### Contact Me
   - Email: alexkimro@gmail.com
   - LinkedIn: [Your LinkedIn Profile](<a href="https://www.linkedin.com/in/alexkimro/"></a>
+[https://www.linkedin.com/in/alexkimro/](url)
