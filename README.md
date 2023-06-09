@@ -1,6 +1,5 @@
-<h1 align="center">Alex Ro</h1>
+<h1 align="center">**I am a Software Developer**</h1>
 
-**I am a software developer**
 
 
 *   🌍  I'm based in United States
@@ -11,7 +10,7 @@
 <br>
 <br>
 
-### SKills
+### Skills
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
