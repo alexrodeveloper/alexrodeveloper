@@ -1,14 +1,15 @@
 <h1 align="center">Alex Ro</h1>
 
-<p align="center">
- ### I am Front End developer.
-</p>
+**I am a software developer**
+
 
 *   🌍  I'm based in United States
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://my-portfolio-livid-seven-76.vercel.app/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to invest myself on interesting projects as a developer
 
+<br>
+<br>
 ## Skills
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
