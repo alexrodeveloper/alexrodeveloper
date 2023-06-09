@@ -1,13 +1,13 @@
 <h1 align="center">I am a Software Developer</h1>
 
-
+<br>
 
 *   🌍  I'm based in United States
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://my-portfolio-livid-seven-76.vercel.app/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to invest myself on interesting projects as a developer
 
-<br>
+
 <br>
 
 ### Skills
