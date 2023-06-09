@@ -1,40 +1,21 @@
 <h1 align="center">Alex Ro</h1>
 
 <p align="center">
-  <img src="profile-picture.jpg" alt="Profile Picture" width="200">
+ ### I am Front End developer.
 </p>
 
-<p align="center">A brief introduction about yourself</p>
-
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- React
-- Redux
-- Node.js
-
-## About Me
-Hi, I'm Your Name, a passionate and self-motivated software engineer with expertise in front-end and back-end development. I have a strong foundation in HTML, CSS, and JavaScript, and I enjoy building responsive and user-friendly web applications.
-
-## Projects
-- Project 1: Brief description of project 1
-- Project 2: Brief description of project 2
-- Project 3: Brief description of project 3
+*   🌍  I'm based in United States
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://my-portfolio-livid-seven-76.vercel.app/'>Portfolio</a>
+*   🧠  Currently learning Next.js
+*   🤝  I'm open to invest myself on interesting projects as a developer
 
 ## Skills
-- Front-end Development: HTML, CSS, JavaScript, React, Redux
-- Back-end Development: Node.js, Express.js, MongoDB
-- Version Control: Git, GitHub
-- UI/UX Design: Responsive Design, Material UI, Bootstrap
-
-## Education
-- Bachelor of Science in Computer Science, University Name, Year
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp; <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> &nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> 
 
 ## Contact Me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
-Feel free to reach out if you have any questions or would like to connect. I'm open to new opportunities and collaborations.
-
-Let's build something amazing together!
+  - Email: alexkimro@gmail.com
+  - LinkedIn: [Your LinkedIn Profile](<a href="https://www.linkedin.com/in/alexkimro/"></a>
