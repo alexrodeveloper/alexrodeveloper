@@ -17,5 +17,6 @@
 ### Contact
  
 Email: alexkimro@gmail.com
-<a ref="https://www.linkedin.com/in/alexkimro/">LinkedIn</a>
- <a ref="https://my-portfolio-livid-seven-76.vercel.app/">Portfolio</a>
+<br>
+<a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/alexkimro/'>LinkedIn</a>
+
