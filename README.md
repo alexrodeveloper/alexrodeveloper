@@ -20,4 +20,4 @@
 
 Contact Me
   - Email: alexkimro@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/alexkimro/
+  - [LinkedIn]([url](https://www.linkedin.com/in/alexkimro/)): 
